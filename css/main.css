@@ -40,4 +40,9 @@
     width: 300px;
     height: auto;
     display: flex;
+    justify-items: flex-end;
+    align-items: center;
+    justify-content: space-between;
+    justify-self: end;
+    margin-right: 50px;
   }
