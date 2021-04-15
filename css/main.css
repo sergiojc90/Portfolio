@@ -28,3 +28,16 @@
     display: grid;
     grid-template-rows: 1fr 1fr;
   }
+
+  header .header-icons-container{
+    width: 100%;
+    height: 50px;
+    display: grid;
+    background-color: brown;
+  }
+
+  header .header-icons-container .icons{
+    width: 300px;
+    height: auto;
+    display: flex;
+  }
